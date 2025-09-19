@@ -5,7 +5,7 @@ This repository has been created in order to fulfill the second homework of Robo
 ###      🔨 Build
 First of all, clone this repo in your ros2_ws/src folder
 ```
-git clone https://github.com/Nellodic34/Homework-2.git
+git clone https://github.com/Nellodic34/Motion_controller_7DOF_manipulator.git
 ```
 Then, build the packages using the following command inside the ros2_ws folder and source the setup.bash file 
 ```
